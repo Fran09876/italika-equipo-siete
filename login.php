@@ -29,7 +29,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
     <div class="bg-white p-8 rounded-xl shadow-2xl w-full max-w-md border-t-4 border-italika">
         <div class="text-center mb-8">
             <h2 class="text-3xl font-black italic text-gray-900 tracking-wider">ITALIKA<span class="text-italika">®</span></h2>
-            <p class="text-gray-500 text-sm mt-1 font-bold">Portal de Administración</p>
+            <p class="text-gray-500 text-sm mt-1 font-bold">Iniciar sesión</p>
         </div>
 
         <?php if ($error): ?>
